@@ -1,0 +1,19 @@
+.job {
+  padding: 10px 34px 10px 34px;
+  max-width: 700px;
+}
+.job-header {
+  margin: 10px 0 10px 0;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  font-family: "Pangolin", cursive;
+  color: #e8e8e8;
+}
+.job-description {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  font-family: "Pangolin", cursive;
+  color: #e8e8e8;
+}

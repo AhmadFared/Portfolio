@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+.project-title {
+  text-align: center;
+  margin: 8px;
+  font-size: 28px;
+  color: #14213d;
+  color: #e8e8e8;
+  font-weight: 600;
+  letter-spacing: 10px;
+  font-family: "Pangolin", cursive;
+}
+.project-container {
+  margin: 10px 0 20px 0;
+  justify-content: space-evenly;
+  color: #e8e8e8;
+  max-width: 420px;
+}
+.project-img-container {
+  background-image: url("border.svg");
+  background-size: cover;
+  padding: 7px 7px 10px 7px;
+  max-width: 400px;
+}
+.project-img {
+  margin-bottom: 30px;
+}
+
+.project-demo {
+  margin: 4px 0px 4px 48px;
+  font-family: "Pangolin", cursive;
+  font-size: 20px;
+  color: #a57f45;
+  transition-timing-function: ease-in-out;
+  transition: font-size 1s;
+}
+.project-demo:hover {
+  font-size: 22px;
+  color: #e8e8e8;
+}
+.project-github {
+  margin: 4px 38px 4px 0px;
+  font-family: "Pangolin", cursive;
+  font-size: 20px;
+  color: #a57f45;
+  transition-timing-function: ease-in-out;
+  transition: font-size 1s;
+}
+.project-github:hover {
+  font-size: 22px;
+  color: #e8e8e8;
+}
+.project-footer {
+  justify-content: space-between;
+}
